@@ -1,0 +1,17 @@
+Declaring Arrays in GoLANG
+
+
+
+var arr=[3]int {1,2,3}
+{1,2,3}
+
+
+var arr=[10]int {1,2,3}
+{1,2,3,0,0,....}
+
+var lazyArr[...]int=[...]{1,2,3}
+{1,2,3}
+
+
+var arrKeyValuePair=[5]string{3:"EOAJhrd",4:"qepqwieqp9 eqiep9q eiqp[ eoq"}
+
