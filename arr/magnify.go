@@ -8,7 +8,7 @@ func main(){
 	z:=10
 
 	ans:=make([]int,z)
-	//copy(to,from)
+	//copy(to[index from where to start pasting],from)
 	copy(ans,s)
 
 	ans1:=make([]int,2)
