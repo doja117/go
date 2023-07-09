@@ -1,0 +1,13 @@
+package main 
+
+
+type T struct {
+a int "insert int"
+b bool "insert bool"
+c string "insert string"
+}
+
+func main(){
+	z:=T{}
+	fmt.Println()
+}
